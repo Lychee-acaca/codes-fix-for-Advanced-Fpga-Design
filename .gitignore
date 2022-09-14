@@ -1,0 +1,9 @@
+/src/*/db/
+/src/*/incremental_db/
+/src/*/output_files/
+/src/*/simulation/
+/src/*/*.bak
+/src/*/*.qpf
+/src/*/*.qsf
+/src/*/*.rpt
+/src/*/*.qws
